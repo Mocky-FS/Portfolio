@@ -1,2 +1,2 @@
 # Portfolio
-Création de mon premier site portfolio
+Création de mon premier site portfolio (responsive)
